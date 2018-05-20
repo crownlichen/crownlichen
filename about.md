@@ -2,9 +2,9 @@
 <html>
 <head>
 	<title>Anne Breen - Intro Page</title>
-	<link rel="stylesheet" type="text/css" href="draft7.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<link href="https://fonts.googleapis.com/css?family=Nova+Flat|Press+Start+2P|Share+Tech" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="file:\\\C:\Users\rubya_000\OneDrive\Documents\Udemy Course\My own website\css\bootstrap edited.css">
+	<link rel="stylesheet" type="text/css" href="bootstrap edited.css">
 </head>
 <body>
 
