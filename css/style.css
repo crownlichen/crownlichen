@@ -1,0 +1,48 @@
+html {
+	margin: 15px 60px;
+}
+
+h1 {
+	padding-right: 15px;
+}
+
+#header, #stories, #posts, #pictures {
+	margin-bottom: 50px;
+}
+
+#header h1, #stories h1, #posts h1, #pictures h1 {
+	float: left;
+	margin: 0px !important;
+}
+
+
+#posts a {
+	color: black !important;
+}
+
+#posts a:hover {
+	color: white !important;
+}
+
+footer {
+	height:50px;
+}
+
+
+
+/*Posts*/
+.section {
+	background: white;
+	margin: 5px;
+	padding: 20px;
+	border: 5px solid black;
+}
+
+.post {
+	padding: 5px;
+	border: 2px solid black;
+}
+
+.post h1 {
+	margin-bottom: 25px;
+}

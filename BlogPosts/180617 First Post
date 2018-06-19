@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>First Post</title>
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+	<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro|Space+Mono" rel="stylesheet">
+</head>
+<body>
+
+<div class="row">
+	<div class="col-md-1 hidden-sm"></div>
+
+	<div class="col-md-5 col-12-sm section">
+
+
+		<div class="post">
+			<h1>First Post</h1>
+			
+			<p>Hey Hey. This is my first post. Yippee!</p>
+
+			<p>I've been working on this website a few months. There's so much to learn! So much information even for a simple static website.</p>
+
+			<p>Well, okay. I did make it hard for myself. At first it was going to be an easy Worpress site, which would have done the work for me. But I also wanted a URL, because that looks more professional. And if you want a URL, you have to pay each month to use it with Wordpress. And that seemed like overkill, seeing I'm not much of a blogger.</p>
+
+			<p>Also, working with preset themes was quite limiting.</p>
+
+			<p>So I decided to spend a bunch of time learning html and css and Bootstrap basics -- which is to say, some internet things. And here we are! A free Github hosted website with my own URL.</p>
+
+			<p>And now I am writing this. A fascinating story for the ages, right?</p>
+
+			<p>It's not very well organized beneath the surface, but <em>shh!</em> Lately I haven't had much time to keep learning these things. So I'm just doing the best I can for now. And it's not bad looking, eh? I'm pretty proud of myself.</p>
+
+			<p>So, yeah!</p>
+
+			<p>&nbsp;</p>
+
+			<p>Umm...</p>
+
+			<p>&nbsp;</p>
+
+			<p>What else to say? I should probably add an 'About' page at some point...</p>
+
+			<p>I'm so bad at talking about myself, you know. That's why I'm not much of a blogger.</p>
+
+			<p>But the modern age puts certain demands on those who like to create and share. So a blog, here it is! And it should be okay. In the future I'd like to post stories, after the rights return back to me. There's also some of my drawings on here.</p>
+
+		</div>
+
+		<div class="row previous-next">
+			<nav aria-label="Previous Next">
+				<ul class="pager">
+					<li class="disabled"><a href="#"><span aria-hidden="true">&larr;</span>Previous</a></li>
+					<li><a href="../index">Home</a></li>
+					<li class="disabled"><a href="#">Next Post<span aria-hidden="true">&rarr;</span></a></li>
+				</ul>
+			</nav>
+		</div>
+
+	</div>
+</div>
+
+
+
+
+
+
+<footer></footer>
+
+</body>
+</html>
