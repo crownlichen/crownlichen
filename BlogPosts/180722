@@ -27,7 +27,7 @@
 		<div class="row previous-next">
 			<nav aria-label="Previous Next">
 				<ul class="pager">
-					<li><a href="180617 First Post"><span aria-hidden="true">&larr;</span>Previous</a></li>
+					<li><a href="180617"><span aria-hidden="true">&larr;</span>Previous</a></li>
 					<li><a href="../index">Home</a></li>
 					<li class="disabled"><a href="#">Next Post<span aria-hidden="true">&rarr;</span></a></li>
 				</ul>
