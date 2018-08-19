@@ -52,7 +52,7 @@
 				<ul class="pager">
 					<li class="disabled"><a href="#"><span aria-hidden="true">&larr;</span>Previous</a></li>
 					<li><a href="../index">Home</a></li>
-					<li class="disabled"><a href="#">Next Post<span aria-hidden="true">&rarr;</span></a></li>
+					<li><a href="180722">Next Post<span aria-hidden="true">&rarr;</span></a></li>
 				</ul>
 			</nav>
 		</div>
