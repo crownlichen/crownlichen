@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>July Update</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>July Update</title>
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+	<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro|Space+Mono" rel="stylesheet">
+	<style>
+		body{background:lightblue}
+	</style>
+</head>
+<body>
+<div class="row"><div class="col-md-4 hidden-sm"></div><div class="col-md-5 col-12-sm section"><div class="post">
+
+<h1>Update</h1>
+<p>The trouble is this. Time spent writing about myself is time that <em>could</em> have been spent writing stories. So I find it hard to motivate myself to write in here.</p>
+<p>But I've been slowing down lately, trying to soothe the sense of urgency which I'm prone to. I often feel like I have to write everything <em>now</em>, to have finished it already, to have moved to the next project yesterday.</p>
+<p>Sometimes, it's better to focus on one story at a time, to <em>take</em> time, to focus.</p>
+<p>So that's what I've been doing. Slowing down. Being satisfied with small steps on larger projects.</p>
+<p>Earlier this year, I was trying to write a tonne of short stories. When I feel like I have to write lots, accomplish lots fast, that's what I end up doing &mdash; short stories. But that's just as limiting as taking time &mdash; maybe even more so. Short stories always have a fairly narrow scope.</p>
+<p>It's like a trap. You want to get stuff done fast, you limit yourself to small projects. You want to break free of those limits, you have to take time, which limits yourself over again.</p>
+<p>But all life is like that, right? Moderation is key. I'm a strong believer in moderation.</p>
+<p>So I better act like it, hey.</p>
+
+		<div class="row previous-next">
+			<nav aria-label="Previous Next">
+				<ul class="pager">
+					<li><a href="180617 First Post"><span aria-hidden="true">&larr;</span>Previous</a></li>
+					<li><a href="../index">Home</a></li>
+					<li class="disabled"><a href="#">Next Post<span aria-hidden="true">&rarr;</span></a></li>
+				</ul>
+			</nav>
+		</div>
+
+</div></div></div>
+
+</body>
+</html>
